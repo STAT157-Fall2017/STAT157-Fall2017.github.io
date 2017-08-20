@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "First Blog Post"
+title: "About the Class Blog"
 date: 2017-08-20
 ---
 
